@@ -7,3 +7,4 @@ master에 추가3
 master에 추가4
 master에 추가5
 master에 추가6
+master에 추가7 merge 방식
